@@ -9,8 +9,6 @@ use Progsmile\Validator\Rules\BaseRule;
 
 final class Validator
 {
-    use PdoTrait;
-
     /** @var ValidatorFacade */
     private static $validatorFacade = null;
 
