@@ -11,7 +11,7 @@
         "modeling"
     ],
     "require": {
-        "php": ">=5.4 | >= 7.*",
+        "php": ">=5.4",
         "ext-json": "*",
         "respect/validation": "1.0.*"
     },
